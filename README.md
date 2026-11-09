@@ -2,6 +2,8 @@
 
 Un moteur de jeu 3D à la première personne implémenté en **C** utilisant le **raycasting**, inspiré du classique jeu Wolf3D.
 
+![](assets/wolf3d.png)
+
 ## 📋 Table des matières
 
 - [Fonctionnalités](#fonctionnalités)
